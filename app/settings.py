@@ -15,6 +15,8 @@ DEBUG = True
 
 CONSTANTS = {
     "app_name": "saleor-test-app",
+    "sqs_endpoint": "http://localhost:9324",
+    "sqs_default_queue": "queue/default",
 }
 
 ALLOWED_HOSTS = [

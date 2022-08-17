@@ -7,6 +7,7 @@ authors = ["Sheikh Haris Zahid <sheikh.haris.zahid@hotmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 Django = "4.1"
+boto3 = "^1.24.53"
 
 [tool.poetry.dev-dependencies]
 
